@@ -1,0 +1,3 @@
+[submodule "mewgenics-roulette"]
+	path = mewgenics-roulette
+	url = https://github.com/nicolaszelener/mewgenics_roulette
